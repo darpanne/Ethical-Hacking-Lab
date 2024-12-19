@@ -3,20 +3,22 @@
 ## Objective
 The Ethical Hacking Lab provides a controlled environment for hands-on learning and application of offensive security techniques. The primary focus is on understanding and performing penetration testing, exploiting vulnerabilities, and enhancing cybersecurity skills through practical tasks using Kali Linux.
 
-Skills Learned
+### Skills Learned
 - Proficiency in reconnaissance and information gathering techniques.
 - Expertise in vulnerability assessment, exploitation, and post-exploitation activities.
 - Advanced knowledge of password cracking, spoofing, and payload creation.
 - Improved understanding of network protocols, attack patterns, and security measures.
 - Development of critical thinking and problem-solving skills in ethical hacking scenarios.
   
-Tools Used
+### Tools Used
 - Reconnaissance Tools: Whois, The Harvester, and Netdiscover.
 - Scanning and Vulnerability Assessment: Nmap, Unicornscan, and OpenVAS.
 - Exploitation Frameworks: Metasploit and Msfvenom.
 - Password Cracking: John the Ripper, Aircrack-ng, and dictionary attacks.
 - Traffic Analysis: Wireshark for capturing and analyzing network activity.
 - Post-Exploitation: Tools and techniques for EternalBlue, timestamp modification, and keylogging.
+
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/ae373729-0074-46ee-9aed-59a0e6a765ea)
 
